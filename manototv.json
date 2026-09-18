@@ -12,7 +12,7 @@
       "date": "2026-09-17T14:47:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17200,
+      "views": 17700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -66,7 +66,7 @@
       "date": "2026-09-17T18:56:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17900,
+      "views": 18400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -108,7 +108,7 @@
       "date": "2026-09-18T07:57:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10300,
+      "views": 11300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -130,7 +130,7 @@
       "date": "2026-09-18T07:57:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12300,
+      "views": 13700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -149,7 +149,7 @@
       "date": "2026-09-18T15:23:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7310,
+      "views": 9640,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -159,6 +159,82 @@
           "type": "video",
           "url": "https://cdn4.telesco.pe/file/KqYFdw4JE1MzYOTARwKv3pi21BktFjlVuVrc3fpfiPqVq2Wlvw7CzZH5LaZAyWWJzli1eRxb7V_u6Guh-BT6YqywNDKUb5YpBGYP9LqjjcuhrLOq0eSuOZvImWp87VuLSRVHcFm5FgW4LcOY7QnXUT5y7w3LTuOx6-eXsALhGLHqBr_EWWHj-NNfHrwPLdhfeshNSBYi_WbiNWJ6gLeUxl3mUIMjU0cbYab4X-IbIxHwm-sVrszc64gCFPtBTgF89vTiQNX0opejg9AG_HjGwaAdvt91BZR8MmoEu7ZMX1lZOGIL3Iih3hvFMvekGuw141tvm_EmxAO50lC4ziVKIg",
           "width": 720
+        }
+      ]
+    },
+    {
+      "id": 107698,
+      "message": "در این ویدیوی تاریخی، شاهد تصاویری از عملیات آموزشی مشترک نیروی دریایی ایران و آمریکا در آب‌های خلیج فارس هستیم.\u003cbr/\u003eدر این عملیات، چندین واحد از نیروی دریایی ارتش شاهنشاهی ایران از جمله رزمناوهای ببر، پلنگ، کیوان و تیران در کنار واحدهایی از نیروی دریایی آمریکا شرکت داشتند. این مانور با هدف افزایش آمادگی نیروها و تقویت همکاری‌های دفاعی میان دو کشور انجام شد.",
+      "date": "2026-09-18T20:19:57Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3080,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "تلویزیون منوتو",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/rDdn-q-w_95UUBY5fQbYENi8vED6ooKU4BzvY24zb6vP8T1EJtgWJJYok6Gnr_dizLJsxc8bJRVmdqErPsfjZWuDF3Pk1SX_s4g4LsS4LQPNTZHsx_mcKGS2jSEycKHEFVeUp9qg35KhHrq6nSuzdj32Yhl4MBI3KHF7PrJrUo8EGninwoRUN0ccxv3IsUNRfq5y6T-v7zHmBeWSE0-jjSg9oylvnfs_TKYy-g8VfRZmjxla-iu72mZLX-pKIc19itJFt8G-xdw6_OrPWkUCLv2dC-nxEYETrIR3GdnSPzXdxDdEBP8VFhE3rLoEITJjv9FBnlOFs1RtR9czAOHHmA",
+          "width": 406
+        }
+      ]
+    },
+    {
+      "id": 107699,
+      "message": "دی‌ماه از خیابان‌ها گذشته، اما از زندگی بسیاری نه؛ از خانواده‌هایی که با جای خالی عزیزانشان مانده‌اند تا مجروحانی که هنوز زخم آن روزها را با خود دارند و زندانیانی که ماه‌ها بعد، همچنان بهای اعتراض را می‌پردازند.",
+      "date": "2026-09-18T20:20:03Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3070,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "تلویزیون منوتو",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/eyYd30l5EXhqUCP48Rp5BiyqF_Vx0epwPCNkKUk3ASvf-UOofXBTVerLCo2goSFTaTDex88Laopa79CvhaqYBJFZT26XEmQ3yV4KQLKr27YjbfbffV6NxF0VDF9bFTrODCHO7aM3XMURXztiEsHKm3_iIIVqN6g-zHCkftiT3bP2m_pqn5fQRNiU8kvCZLFwRHGS8T082RYDMTZYNQY4bni-OVUrRJvBs7Hbjys6dZzaiqGA3Ro5IRJdFQuGRTX-AKbh6OtEBXUMiHIxEf4FLUASucnAKW6Du_sftWNB55ObN252YgG8Gm_GpzBph-EfhieFxhwI3leGZJ43MOSDVg",
+          "width": 1280
+        }
+      ]
+    },
+    {
+      "id": 107700,
+      "message": "دی‌ماه از خیابان‌ها گذشته، اما از زندگی بسیاری نه؛ از خانواده‌هایی که با جای خالی عزیزانشان مانده‌اند تا مجروحانی که هنوز زخم آن روزها را با خود دارند و زندانیانی که ماه‌ها بعد، همچنان بهای اعتراض را می‌پردازند.",
+      "date": "2026-09-18T20:20:10Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3250,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "تلویزیون منوتو",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/BvPAIvIoZu2kEifMqxvvebvL2e6638NX3P2tfyQ_rzPHi5qcu4gNBFG8vfJ7WBrxptD1WrCQ_ytYshitBO1GjfUlOzlFxRuxoCtonZaQpqCVplPeDIjk5WDLr1ILQJJSdyccB0XPBfBfq6EutzndNxqSup98pDtYr34LwUoN_pNFJsIYqhpStp3DQld2V6HMCSzSdmwhKE9Z961TlPVF3Y1m91DcYZ02FXXu-ap04ylyNNGV9-_yqVlTSX2gu7luSFvIu0kKxi_zTf05-E4c6W35rWUernwXBQiicxs8SGrHfY3SwA8sojfMtB4oP62zORSv0mCSBNpQ94FrwXbErA",
+          "width": 720
+        }
+      ]
+    },
+    {
+      "id": 107701,
+      "message": "The most important records of Iran’s January protests came from ordinary people filming what was unfolding in front of them.\u003cbr/\u003e\u003cbr/\u003eThis Is Our Story brings together these images and voices, creating a record of events as they were witnessed.\u003cbr/\u003e\u003cbr/\u003eA four-part documentary series, with English subtitles.\u003cbr/\u003e\u003cbr/\u003eمهم‌ترین تصاویر اعتراضات دی‌ماه را مردمی ثبت کردند که در همان لحظه شاهد وقایع بودند.\u003cbr/\u003e\u003cbr/\u003eمستند چهارقسمتی «This Is Our Story» این تصاویر و صداها را کنار هم قرار می‌دهد؛ روایتی از آنچه مردم در آن روزها دیدند و ثبت کردند.\u003cbr/\u003e\u003cbr/\u003eاین مجموعه ۲۶ سپتامبر (۴ مهر)، با زیرنویس انگلیسی از کانال یوتیوب منوتو منتشر می‌شود.",
+      "date": "2026-09-18T20:20:30Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3620,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "تلویزیون منوتو",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/X0CVICLCGo3zqhBUaNpjq7JS21ibdeVyRHEvXv8mCCjIfgsCFWeZP2FPcaE-RG6RzoE3d3HaX8scRI6ZIZUygov36d8jMBNgeDshqa00Aww-UuMdYApojBLFlzivjdZbvrcvAIoh3gP42IRnOa83C09cKrVSBQkJKSwfbB8Me7xKGbNz8pT5aHEfEg2Mj8n4vO8qmWhGgTG2BNY9VITdeJOrLd_NGZW7-V9d0_67bbJ59a21fksfrPpuzAur2H0X97JvqNtZ_nyzcaSQYiZyjdee8SBE0zSnsQKsSajXs19xzZp1oKpY2VqeWRDxnGC_qP6hfYwxGT9gOYueEmkezw",
+          "width": 406
         }
       ]
     }
