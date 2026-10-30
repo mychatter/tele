@@ -12,7 +12,7 @@
       "date": "2026-10-29T14:20:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7830,
+      "views": 8340,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -66,7 +66,7 @@
       "date": "2026-10-29T15:10:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7530,
+      "views": 8180,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -85,7 +85,7 @@
       "date": "2026-10-29T17:01:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5670,
+      "views": 6550,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -104,7 +104,7 @@
       "date": "2026-10-29T17:02:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6580,
+      "views": 7830,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -123,7 +123,7 @@
       "date": "2026-10-29T17:59:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6630,
+      "views": 8470,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -177,7 +177,7 @@
       "date": "2026-10-29T20:14:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3280,
+      "views": 5900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -186,6 +186,25 @@
         {
           "type": "video",
           "url": "https://cdn4.telesco.pe/file/RYabLcoAsp3zHQX6psnIWnfJEXkCAzVXbVPA257_pDzATn7Q3_XdPLWadF2rW_pYFr5zFkxtl5rJW3u9jnkmjhQl0ZgIcYkRNw1lad1meu6EaKDu1wxcdXpx9rmpXg36dJ40hF1b2KjG9WQ_WN969nqbYtK635E8PN4THwunYTiVYxtQRE3HOI30N4Mf-qr3b3QWXlf9ZRHEOBw7goMWaxaIAYtJe5i0IHT1eTFrhMeblU0nD92nGonn8-AySlTftSft65gkbJrv6rd0XUWNMxoVUd0zf_ausoTFAm3zK4tSYODbH8MlGCUR4brT-M3ttVSKo0SZXl_2Vgynr0kUyw",
+          "width": 406
+        }
+      ]
+    },
+    {
+      "id": 108945,
+      "message": "جاویدنام محمدصالح کارگر شورکی، ۱۸ ساله و اهل میبد در استان یزد، روز ۱۸ دی‌ماه ۱۴۰۴، در جریان اعتراضات در این شهر، با شلیک مستقیم گلوله نیروهای امنیتی جمهوری اسلامی به سرش کشته شد. پیکر او در زادگاهش، شهرستان میبد، در فضایی شدیداً امنیتی و تحت فشار بر خانواده‌اش به خاک سپرده شد.",
+      "date": "2026-10-29T23:15:54Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2110,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "تلویزیون منوتو",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/Ps_MV-dPsOZcxXy-ULLP_Qb893lekapJdd3t08j2446yRWHo6H5NX1MuZh-cCC2UuZEMbN14pQr9ADyqaijtB_-yHBIb2bsGKnyPl8BxDx-rXhZZlmkQrVmWVrElgJU_xYu75N5nwmyMpHLJByi4Rg3607M3Hui9wjMunf0jkmdyhQ-fw8SGItwt5vLkt1d3SXD84xFe8dMwa9_gU-YnQDs_l-hLGsw7psW0q2uAnY2f2mF9jr-FlP4GpdHcRhzr8RG-GXpDSaWIEh39CmmHlxFI0nwXi-tTR50keRI_bnBI_j1cnGvK2hBHislNsg3_TAtqCC4qOaRYo2lFQeDZXQ",
           "width": 406
         }
       ]
