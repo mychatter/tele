@@ -12,7 +12,7 @@
       "date": "2026-11-02T13:06:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9090,
+      "views": 10100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -54,7 +54,7 @@
       "date": "2026-11-02T14:12:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8960,
+      "views": 10200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -73,7 +73,7 @@
       "date": "2026-11-02T15:12:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8230,
+      "views": 9640,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -92,7 +92,7 @@
       "date": "2026-11-02T17:03:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6490,
+      "views": 8560,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -110,7 +110,7 @@
       "date": "2026-11-02T18:05:52Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5440,
+      "views": 9080,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -155,6 +155,25 @@
         {
           "type": "video",
           "url": "https://cdn4.telesco.pe/file/d2SSacHFdCZWV0EHCD89hsT_BjPpyEMZPmjgxDElS304U-ywhEW3AmQl4GUWEnE263Y7nnODo-CoH025wuuEkH3lCcjYg0n6q1YAF63asIlpZnQj81RqRKPnzKljCm9oQsNqFotkRzZgI4LyP99T7t6XBD7f-arxZLKPbTFaVlZATAW0ND-0PtwOKHuwrlJb6rAz64LTpH0is6Et-Y3F70049Gz_CkCrA7SwurPSabf-8csVgEJxqeBZaupxHQE887a0ZJOoWdSmypX7wvQTyCRLqMaLXEMYQr2ur7HNdcrLP1wlxNyxEtZRfHcnFFzirss2Ozf3ThchI70iOe55ig"
+        }
+      ]
+    },
+    {
+      "id": 109087,
+      "message": "جاویدنام سعید داوودی، ۲۱ ساله و اهل قم، روز ۲۴ دی‌ماه ۱۴۰۴ پس از شرکت در اعتراضات بازداشت شد. حکم اعدام او تنها حدود دو ماه بعد، بامداد ۲۸ اسفند ۱۴۰۴، هم‌زمان با اذان صبح، همراه با دو هم‌پرونده‌اش، جاویدنام مهدی قاسمی و جاویدنام صالح محمدی، در قم اجرا شد.\u003cbr/\u003eقوه قضاییه اتهاماتی از جمله «محاربه از طریق کشیدن سلاح سرد»، «اقدام عملیاتی برای دول متخاصم» و «کشتن نیروهای فراجا» را علیه او مطرح کرد. بنا بر گزارش‌های نهادهای حقوق بشری، احکام این پرونده بر پایه اعترافات اجباری تحت شکنجه صادر شده بود.\u003cbr/\u003eاین پرونده به‌صورت شتاب‌زده در دادگاه کیفری و دادگاه انقلاب استان قم رسیدگی شد. سید کاظم موسوی در زمان برگزاری دادگاه و اجرای حکم، ریاست کل دادگستری استان قم را بر عهده داشت.\u003cbr/\u003eسعید پیش از رسیدن به ۲۲ سالگی و در آستانه نوروز اعدام شد. پیکر او در آرامستان بهشت معصومه قم به خاک سپرده شد.",
+      "date": "2026-11-02T20:22:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 5340,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "تلویزیون منوتو",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/LKlWFvQUYDVLqx6RgoU11TTn13jLFukiOu9n1CqioufSRK3KLLnl0geXOssD0YRYCdsuhEu7uawsNSG8w_ol8d64n4LDlAgFwlU5FKUtqZ2XY50auaWkHvryRBNkHzALaN5fltzRQ6ndhb-NW9cZguFfDNc-E5UTz-qIC2bEbIbFUTPNsiQszL-Htc6idw07ejipQSHiLcQkcDbAK3IlHXIhwewUDgrJ7qcBpsO0v9hHkHf_icb5KuqKyR2yNC0fJ-Pmh8Wc3dYzdIhtQ7GvIKM0g-Y2CH3xmF2TtTBvu_LhMx3DFbOFWBzsAy_Xer8qebzfRdULMcBzpiEd78CUkg",
+          "width": 406
         }
       ]
     }
