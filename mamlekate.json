@@ -3,7 +3,7 @@
     "id": 0,
     "title": "مملکته",
     "username": "mamlekate",
-    "photo_url": "https://cdn4.telesco.pe/file/FmXW50kd6aQ7kQXn99XZf1yj6s8MeEszCbN0BkO4XoEqSc2E4X0c_XzzKz1e68_xukwsIGSAjQTkB9iV9me4PxRE562atqAABNBjNyTMJBomXvmvs4bn12uPsDIAz--h-FbpoFUW5WL0Gyv2m4fpvc4JgPv5Aurz6NUe3q_MMA1BHzuHU7QLVYBgubc1739PlJMmvuBe0X4HvU2JBRYMV0ON_GT9dgqA8gOKVHuuytmL1NkbT55G75kkPabMBMO-ffIz472mpKcMGlne90nkCQjKVUZ1yEaKY9vtdgOguqVR3V9Htwc-SheciLCNxJ84UC8YfZvjws3xFD-6gNWyzw.jpg"
+    "photo_url": "https://cdn4.telesco.pe/file/srNnHL5xcKyZ0sntmtmkpk9DhpZZRWF1hvXzspxpGwAcrTL0y_19iHZWljFyOJlvfGWLmLI11pBq98rU_CR82nGIw5Uc2sPR5RyCD76VZMgOSZ5wZhGXMx3sEDoBaqNHIPPcBEqvidcXGfCji3cE02lxnsVtgIQQhWT9-in2I1zs6PQfq4B43y1rWmL-7BtnsYzBuOiN11jPnwgYwY7bYRI7wTz9xQFK1gBykqZnUYOly7X3V4RddigMAd8-PGVnwpmdDD7SAGKK5JX8CLMFI1PG0OCax7-DLaNLC42y65iyuuvEEe97nunf_nV5mNcz4JtOVQJUwspeIMtp4KcaXA.jpg"
   },
   "posts": [
     {
@@ -12,7 +12,7 @@
       "date": "2026-11-10T12:22:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 95800,
+      "views": 99700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -50,7 +50,7 @@
       "date": "2026-11-10T12:27:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 94600,
+      "views": 97800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -69,7 +69,7 @@
       "date": "2026-11-10T14:19:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 98800,
+      "views": 103000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -81,7 +81,7 @@
       "date": "2026-11-10T15:28:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 100000,
+      "views": 107000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -89,7 +89,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/UkHQT3xxXFwHyJ8IBT65qpHdmfXU1lD9oIqN1AvhPaWl8VcBULn0btLbBz3sPfZX8HqVjWS1KqyR3Qvn3bjrmrKGrY8cx4xw_i169zqeOWVYp96MiOtg_vOc3KncROipzd-Wq_TvZzD4DfmIcbj_KdLKZRFhpN-yCuZn4N-uBBVds0RHC1upnNEDsk-w25xavVKv8hqhlTqOrP8635Q1v_LHrFBrPPtP3G27d1ZRDb63WdVj4akOmaxlZsND3-fqFNlnw8UfVML6s28ZRz_vwuX0U18H-0ufyEsbCykCYmbJMOiBWhXUCay0PcNCDPfB8QDlsVKsuy9umVIZBbISjA",
+          "url": "https://cdn4.telesco.pe/file/USthsyvjAglABcaPA4NcrvMR1xHak4zN9E3159PGY6sB0m6GYaV12do8sT1BzEeU8UX-zkx3X2ud7oXPRwposI5NSZfhq_TLnAGw7LbpnXFbdPQb0yUe2ZtOEI5I4o9tAFZ26oCgUCJnlrQTyJj5_iRiSTxnC5sMbzxfNqNvoDiS3uO6s5xu1LdQqZY9t8z-qs4Bw9V98PYlfT4m548T1-gm2DuKqniUdT3y8HfqAfFXwS4kp7-p7gywDbhCksWm1F1ND6fcYHIS2nCBGldmKe1EPjAtoYYbzPXcJgc0StVzTqDtWV6rQVhl6nr7-mbZCTB3jugqSZVPK1iQzRY2lQ",
           "width": 640
         }
       ]
@@ -100,7 +100,7 @@
       "date": "2026-11-10T17:45:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 106000,
+      "views": 111000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -108,15 +108,15 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/WnSVwxsvqJMVTeh6XI_2BV131OmSLqzs9JmeAcdEkD-Fk4AHtxS7pSNAuC0brvhR5ub4KVKbt0jwOrixYxi_Ka8R9IYxtaYJZMIy1X7RW2nXq1pDiZXTdQtUIhKDKRlWOqdORDETrwKKuM72cNe8Qc_1oHVoleksSrtR-_73qGupIUIyXYTUH4DYV11UAcIBe7zi--DyNp8Kekk1S-Qft_vKGz50rmzIQ0GWeC7oruBeZvQTCwkKKLxXTvyVmYVHLbCHVdciEgqcQhldylw2xjrPHJKQh8QNEwDZwOZxMvko_4n1BN1oUn_iBgKTuXsEAsDf51dLRAirARITOTuKqA.jpg"
+          "url": "https://cdn4.telesco.pe/file/YhP4usJ_HBQJq9UuWZ0TRJ1iM7eCJOMSuxwIbFBLuC7BL5qFkEYmZKKRVL-Zn-pPCVBanJyjiB33G17xSxQqENgVP_qXC4BZ8iHilwPHkvmRUQdQAHB03F4OD8-AbFdg1JUUpym7Xn5bgVJ-bky7K11ndRu6jTtnH1YWkFWyDDWIwDfROpQsHVjNvgFIPFzCoqW-zSqSe5VHJ9Lo17o2Tns7ZaB7D1UZnMlRAfchlD4KD7Sr54Stfp8i50meQlH5kaJ3FDCdL52YABIaxJz1udXjY6i8i27Z3Toq2Yumw0fEeYYHftqfx_9zhP073Dlxg1GjY_va6XPOwlMSseEoWg.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/JOC3eCjb_nGClbDPELoNWlne0GXdTWjzFg4kHdmo2sfYFMlUmOMPwhO4YN9aZ2Gwh0jCc-Qh4AJt_o6hrKaixZoRffXh8Q5GeVMVpJSz6YvjqaCnrZQ-M2FUwkMNDV5jMsfkSVeKXH_4YokLwo3nEm2p7nIWvnk9_MM3q6t2n-O_lNOVBd9Tfr104IiSOleglxFZbyHz4KdymQ4nAQ9kLX6htijVwD61OImxKk8-jDY89Y6Rd1LdyIjrdU34-uX7kTpfvghBLGzQs5IRgpiyR8Gq_ktcR2WQPyJSytsutC-B8RmB57oNr365F3isuKwUCcy6l0z6eu5w2FXn9T3sqA.jpg"
+          "url": "https://cdn4.telesco.pe/file/NIk9MkJ03aWOk3SUhEp82JLHQw1NegUe3yE2jTEEC7qUALwCCWTlQiX5MB1lxB7vtVhkYOTsksJLxKgxTeL92StXVxAIXLMvEB9HuoeC-O6kOg2kS_sfrDF6z8VpuPwd65JlVmThQJW1yAUbazuHxI5TLNInqxzCMMaIo3LSg1MDBvgJsfy513y0a1dPrJ0ruiJksxrvPCcUoBthGp8u3IlVtrp1CclzOk2655P4QRGqpYZ7AeM_DI319_o2KhR0VfBdYbOI1kMoxRyD939iv3P8-AHEQu2v1wT6RPTxLVFa5rKI0vE-DluoFFNzetpbr9KEIlmFH82NOqctQvGv6w.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/fyOvunKcAV0ZxR_KllyBoemxF_C1X7k4hQQNW5GIgUWw_mOy8-A-d7rWQg48IvxVCFXlDE9OX18WRRdgCtom5SIWJDuRHFHizC0MYKXMpi6n38So0iyatyfqjc18nMPfsRTTMoM3NBMY2piNR2FwQ6kR1IaYgXVkzWr38pnPh8ME9QAGO27cHzHN9CBjFSEGHxA0jt3Xyr3SOSq8isfkCxvEY3WCAgeL8e_lwrgFcvnX0BW6bHn2l3r97hnetyg5O0VgsQEhseq06LzQdNdqIca8EgGHQl2sQ-qswmZqb3la460vUMzRD4uaIXX-WfuO5ziQEKGCB2aZ0ZzGWFWzXQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/JsoR30A-32RBRN-WyPLnCxNiDWMXC0kWnpGt2hk17iMf9IwsjhDL4ddjvGn94TztzFs_uDwII8hx2D41jaqnwPVlpEKXpS4bD3KcvfZKTrnQEGjJcVSSOgboRw9lfcNiXegUYwzvyIU_pNIMnX0mBtGYIRrSkR2nhkwxp6DrDiAd7GvaSW01oc3VZ10JXfQqn55bx515h01qWTl5VTlXyWQyutTNy8C-FgYaTDoSw0pLwr97sjnCgm3IcrL6DnBIUXHW2wc_4vy95_rpXbnw7WXzSLmKASo74WIADPkNL9E1G2cg2I3rDjC627XIHqiBVOy8nxELEYT81epIHrUOnQ.jpg"
         }
       ]
     },
@@ -126,7 +126,7 @@
       "date": "2026-11-10T17:52:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 109000,
+      "views": 114000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -138,7 +138,7 @@
       "date": "2026-11-10T19:08:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 111000,
+      "views": 118000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -146,7 +146,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/iuPHknY5juGYoV4LmUs69R_wUugbVr1dEFP2uEArpewwgc3Giwu807pqmjwh_rxaamqLiyiAWG3Kf-VdbCMJyARAszwigDL01vc92iypb5DBtJdub2f5qztASyMagxIsoYrlc7GSXmXmERTVrH4b5ZRux8l3BegwXNRIF-QNfEO_0cPNwb095K4tkYepYoqWMECtSwy2mxCR5dul0S7Tlio8LwWATvN_DDZ59YwXLiHHUYhGedfeHVw2VRZvzwx39lZjnVc9paKpkLtPI6i46VIJ_7euKmGqKESItwyEiztAUujZqaT0jiurvvXnoK43nyXfdoiZx1j89kB06l26fg.jpg"
+          "url": "https://cdn4.telesco.pe/file/nzWLuKzs-JgWia54447Wq_20ED3_08zCPfHVW_ExkrRAimyvOl6U_0NzTiy3S1ID04KEEzDLwH3PiFec2de0aa2NFwSCD59ylJb8IhAnP01n1n4u5lvnoPRk1hf769LkoycTjP0UMQyy2dIncwzHL45PGuOWwis3L7vy5QbnfMgb9aYjFySSuw-pP4fsWNqRdMVakq2FheBgdKvP9p8p6JwavEczWN6BZJJscxXU723S52bdmwmu7X0rI4nIeOdCFtfa32jVIkQmnAwN9Kg1xCeupeoFDYZO9xJ-JPD9cBfunhMgNfy8DNw7RNReTJYXu6GfBQzx_b5brHLAxERydw.jpg"
         }
       ]
     },
@@ -156,7 +156,7 @@
       "date": "2026-11-10T19:24:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 107000,
+      "views": 114000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -168,7 +168,7 @@
       "date": "2026-11-11T01:01:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 103000,
+      "views": 115000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -187,7 +187,7 @@
       "date": "2026-11-11T08:38:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 77000,
+      "views": 95900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -199,7 +199,7 @@
       "date": "2026-11-11T08:52:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 78200,
+      "views": 99100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -211,7 +211,7 @@
       "date": "2026-11-11T09:21:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 80900,
+      "views": 104000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -219,11 +219,11 @@
     },
     {
       "id": 105235,
-      "message": "\u003ctg-emoji emoji-id=\"5987768770989399555\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939E.png\u0026#39;)\"\u003e\u003cb\u003e📞\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eرای به درخواست فعال‌کردن وی‌پی‌ان موزیلا برای ایران\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eاخیرا فایرفاکس امکان built-in vpn رو بطور آزمایشی در اختیار کاربرانش قرار داده. من یک ماه بود که داشتم ازش استفاده میکردم و سرعتش خوب بود و همه سایتها رو بلا استثنا باز میکرد. با محدودیت ۵۰ گیگابایت در ماه.\u003cbr/\u003e\u003cbr/\u003eامروز دیدم ایران رو از لیست کشورهایی که میتونن ازش استفاده کنن خارج کرده و من دیگه نتونستم وصل بشم.\u003cbr/\u003e\u003cbr/\u003eمن هم یک درخواست توی Mozilla connect (بخش «ارتباط با ما» تو سایت موزیلا) ثبت کردم که این امکان رو برای ایران باز کنند. این لینکشه:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://connect.mozilla.org/t5/ideas/please-make-firefox-built-in-vpn-available-in-iran/idi-p/146628\" target=\"_blank\" rel=\"noopener\"\u003ehttps://connect.mozilla.org/t5/ideas/please-make-firefox-built-in-vpn-available-in-iran/idi-p/146628\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eاگر از فایرفاکس استفاده می‌کنید و لاگین هستید، با لایک کمک کنید این درخواست به اطلاع تیم فایرفاکس برسه.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5987705248423091910\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29880.png\u0026#39;)\"\u003e\u003cb\u003e☀️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ci\u003e آپدیت: اگر برای رای شما access denied زد بیخیالش بشین. منطقیه که رای‌ریزی این مدلی رو برای سلامت اکوسیستمشون کنترل کنند.\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/mamlekate\" target=\"_blank\"\u003e@mamlekate\u003c/a\u003e",
+      "message": "\u003ctg-emoji emoji-id=\"5987768770989399555\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939E.png\u0026#39;)\"\u003e\u003cb\u003e📞\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eرای به درخواست فعال‌کردن وی‌پی‌ان موزیلا برای ایران\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eاخیرا فایرفاکس امکان built-in vpn رو بطور آزمایشی در اختیار کاربرانش قرار داده. من یک ماه بود که داشتم ازش استفاده میکردم و سرعتش خوب بود و همه سایتها رو بلا استثنا باز میکرد. با محدودیت ۵۰ گیگابایت در ماه.\u003cbr/\u003e\u003cbr/\u003eامروز دیدم ایران رو از لیست کشورهایی که میتونن ازش استفاده کنن خارج کرده و من دیگه نتونستم وصل بشم.\u003cbr/\u003e\u003cbr/\u003eمن هم یک درخواست توی Mozilla connect (بخش «ارتباط با ما» تو سایت موزیلا) ثبت کردم که این امکان رو برای ایران باز کنند. این \u003ca href=\"https://connect.mozilla.org/t5/ideas/please-make-firefox-built-in-vpn-available-in-iran/idi-p/146628\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eلینکشه\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eاگر از فایرفاکس استفاده می‌کنید و لاگین هستید، با لایک کمک کنید این درخواست به اطلاع تیم فایرفاکس برسه.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5987705248423091910\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29880.png\u0026#39;)\"\u003e\u003cb\u003e☀️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ci\u003e اگر برای رای شما access denied زد بیخیالش بشین. منطقیه که رای‌ریزی این مدلی رو برای سلامت اکوسیستمشون کنترل کنند.\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5922792164978336476\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F928E.png\u0026#39;)\"\u003e\u003cb\u003e💎\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e فایرفاکس رو آپدیت کنید\u003cbr/\u003eتوی فایرفاکس لاگین کنید (با اکانت گوگل هم میشه)\u003cbr/\u003eسمت راست نوار آدرس، آیکون VPN رو میبینید\u003cbr/\u003eاگر آیکون VPN رو نمی‌بینید، تو نوار آدرس بزنید  about:config\u003cbr/\u003eروی Accept the Risk and Continue کلیک کنید\u003cbr/\u003eروی Show All کلیک کنید\u003cbr/\u003eتو قسمت  Search preference name عبارت browser.ipProtection.enabled رو جستجو کنید و روش دبل کلیک کنید تا مقدارش true بشه\u003cbr/\u003eفایرفاکس رو کامل ببندید و دوباره باز کنید\u003cbr/\u003eروی آیکون VPN کلیک کنید و بعد روی Turn on VPN کلیک کنید\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5303382121967001310\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92BB.png\u0026#39;)\"\u003e\u003cb\u003e💻\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e اگر این روش هم ممکن نشد\u003ca href=\"https://github.com/armanlife/arman-vpn-client\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e این روش\u003c/a\u003e رو امتحان کنید\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/mamlekate\" target=\"_blank\"\u003e@mamlekate\u003c/a\u003e",
       "date": "2026-11-11T10:43:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 70500,
+      "views": 102000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -231,7 +231,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/v2GnLoUJbCSPK7Ykldc_K-kbOBPaKEXCpwQ_8h0PkvNptw_Zslp73KkGbN0iAzp-cwLW-29q5IUYL4BKri4uvVo2KBVNSLGgHovsMUTCFoFAgqEgRghUkBVB9ypFhUIKzAzvCakBzuZ8vt2N01EGVSgs_XKjKrA1tJnuGPjj2GXNWU_uO6tJfJFN1m1Hg5IgV3LA07NrI7ZV_UtRziszwUABpwoWmt_WuzA40EzN9jyGlNH5E2sgOWeuvrg9XrN_Evk1-fgRMBtohiET_818VRZToluJrYB5RizrTHvDDG7L7GntrEvByX3Py-bLvERqoupECfIH_ZIPhkfNFcodyQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/M6YWG9Q3BJDa9ZpGUtxa_wtA_strp43ZYuyoNZ5JU7aLB9RgHkHXT4nAbJFURolpsTPmeYlvGvEc4nPvjREcnUh7dqh-EkwKgiwhr1APngjGGBrMkfI2-XB2kCBSkFIqSdFis4-OJwvrZHMQUtb1NzBZ8mF9e6tiBJ9iPvdPLmoNdmCUpZUCIub5T1X_AsrG9b-jhHKqT5WeCMz1FiEsld-KT2fHuaXKPb6BMImdcrux5JPQVJxhSU8-g80IVjQxDXeKFMvu8YtN-EGoel7r-g34vqaFY0my1VRmkOK0KD_ZqHSzTmW-GJpKuYsxhKNfctuWajN_ffrJVsFYC26S8g.jpg"
         }
       ]
     },
@@ -241,7 +241,7 @@
       "date": "2026-11-11T12:46:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 53300,
+      "views": 95300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -253,6 +253,42 @@
           "width": 720
         }
       ]
+    },
+    {
+      "id": 105238,
+      "message": "",
+      "date": "2026-11-11T19:59:40Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 46600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "مملکته"
+    },
+    {
+      "id": 105239,
+      "message": "\u003ctg-emoji emoji-id=\"5983232280502477270\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939D.png\u0026#39;)\"\u003e\u003cb\u003e📝\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://telegra.ph/%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%AE%D9%88%D8%A7%D8%B3%D8%AA%D8%A7%D8%B1-%D9%BE%DB%8C%D8%B1%D9%88%D8%B2%DB%8C-%D8%B5%D8%AF%D8%AF%D8%B1%D8%B5%D8%AF%DB%8C-%D8%B4%D8%AF-%D8%B1%D8%B6%D8%A7%DB%8C%DB%8C-%D9%85%D8%B0%D8%A7%DA%A9%D8%B1%D9%87-%D9%87%D8%B3%D8%AA%D9%87%E2%80%8C%D8%A7%DB%8C-%D9%88-%D8%AE%D8%B1%D9%88%D8%AC-%D8%A7%D9%88%D8%B1%D8%A7%D9%86%DB%8C%D9%88%D9%85-%D8%BA%D9%86%DB%8C%E2%80%8C%D8%B4%D8%AF%D9%87-%D8%B1%D8%A7-%D8%B1%D8%AF-%DA%A9%D8%B1%D8%AF-11-11\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eترامپ خواستار «پیروزی صددرصدی» شد؛ رضایی مذاکره هسته‌ای و خروج اورانیوم غنی‌شده را رد کرد\u003c/b\u003e\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eدونالد ترامپ، رییس‌جمهوری آمریکا، تاکید کرد که واشینگتن به دنبال پیروزی «کامل و صددرصدی» بر جمهوری اسلامی است. هم‌زمان، محسن رضایی، دبیر شورای عالی امنیت ملی جمهوری اسلامی، ضمن تهدید اروپا، هرگونه مذاکره با آمریکا را رد کرد و گفت اورانیوم غنی‌شده ایران به خارج منتقل نخواهد شد. \u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5983232280502477270\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939D.png\u0026#39;)\"\u003e\u003cb\u003e📝\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://telegra.ph/%DA%AF%D8%B1%D9%88%D9%87-%D9%87%D9%81%D8%AA-%D8%B1%DA%98%DB%8C%D9%85-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%87%D8%B1%DA%AF%D8%B2-%D9%86%D8%A8%D8%A7%DB%8C%D8%AF-%D8%B3%D9%84%D8%A7%D8%AD-%D9%87%D8%B3%D8%AA%D9%87%E2%80%8C%D8%A7%DB%8C-%D8%AF%D8%A7%D8%B4%D8%AA%D9%87-%D8%A8%D8%A7%D8%B4%D8%AF-11-11\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eگروه هفت: رژیم ایران هرگز نباید سلاح هسته‌ای داشته باشد\u003c/b\u003e\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eوزیران خارجه کشورهای گروه هفت با تأکید بر اینکه جمهوری اسلامی هرگز نباید به سلاح هسته‌ای دست یابد اعلام کردند در صورت ناکامی تلاش‌های دیپلماتیک، هماهنگی برای اعمال فشارهای اقتصادی و سیاسی بر حکومت ایران را ادامه خواهند داد. \u003ca href=\"?q=%23%D8%B5%D8%AF%D8%A7%DB%8C_%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7\"\u003e#صدای_آمریکا\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/mamlekate\" target=\"_blank\"\u003e@mamlekate\u003c/a\u003e",
+      "date": "2026-11-11T20:15:49Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 42000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "مملکته"
+    },
+    {
+      "id": 105240,
+      "message": "\u003ctg-emoji emoji-id=\"5983232280502477270\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939D.png\u0026#39;)\"\u003e\u003cb\u003e📝\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://telegra.ph/%D8%AA%D9%87%D8%AF%DB%8C%D8%AF-%D8%A8%D9%85%D8%A8%E2%80%8C%DA%AF%D8%B0%D8%A7%D8%B1%DB%8C-%D8%AF%D8%B1-%D8%A7%D8%B1%D9%88%D9%BE%D8%A7-%D8%AA%D8%AE%D9%84%DB%8C%D9%87-%DB%B3%DB%B0%DB%B0-%D9%85%D8%AF%D8%B1%D8%B3%D9%87-%D8%AF%D8%B1-%D8%A7%DB%8C%D8%AA%D8%A7%D9%84%DB%8C%D8%A7-11-11\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eتهدید بمب‌گذاری در اروپا؛ تخلیه ۳۰۰ مدرسه در ایتالیا\u003c/b\u003e\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eبیش از ۳۰۰ مدرسه در ایتالیا پس از دریافت ایمیل‌های تهدید به بمب‌گذاری تخلیه شدند. پیام‌های مشابهی به مدارس بریتانیا و ایرلند نیز ارسال شده است. مقام‌های اروپایی در حال بررسی ارتباط احتمالی آنها با حملات سایبری اخیر هستند \u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5983232280502477270\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939D.png\u0026#39;)\"\u003e\u003cb\u003e📝\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://telegra.ph/%D8%B5%D8%AF%D9%87%D8%A7-%D9%85%D8%AF%D8%B1%D8%B3%D9%87-%D8%AF%D8%B1-%D8%A7%DB%8C%D8%AA%D8%A7%D9%84%DB%8C%D8%A7-%D8%AA%D9%87%D8%AF%DB%8C%D8%AF-%D8%A8%D9%87-%D8%A8%D9%85%D8%A8%E2%80%8C%DA%AF%D8%B0%D8%A7%D8%B1%DB%8C-%D8%B4%D8%AF%D9%86%D8%AF-11-11\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eصدها مدرسه در ایتالیا تهدید به بمب‌گذاری شدند\u003c/b\u003e\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eحدود ۳۰۰ مدرسه در سراسر ایتالیا تهدید به بمب‌گذاری شدند. این خبر را جوزپه والیتارا، وزیر آموزش ایتالیا، اعلام کرد و آن را احتمالاً یک «حمله سایبری، نه یک خطر واقعی» توصیف کرد.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/mamlekate\" target=\"_blank\"\u003e@mamlekate\u003c/a\u003e",
+      "date": "2026-11-11T20:24:10Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 38700,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "مملکته"
     }
   ],
   "last_updated": 0
